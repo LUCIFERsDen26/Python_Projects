@@ -1,0 +1,7 @@
+91.121.33.63:1000 {'protocols': ['socks4'], 'anonymity': 'Elite', 'timeout': 581, 'country': 'France', 'country_code': 'FR'}
+151.80.201.162:1080 {'protocols': ['socks4'], 'anonymity': 'Elite', 'timeout': 1649, 'country': 'Italy', 'country_code': 'IT'}
+78.102.13.124:3629 {'protocols': ['socks4'], 'anonymity': 'Elite', 'timeout': 642, 'country': 'Czech Republic', 'country_code': 'CZ'}
+54.38.110.35:48034 {'protocols': ['socks4'], 'anonymity': 'Elite', 'timeout': 485, 'country': 'France', 'country_code': 'FR'}
+77.48.137.3:50523 {'protocols': ['socks4'], 'anonymity': 'Elite', 'timeout': 1522, 'country': 'Czech Republic', 'country_code': 'CZ'}
+213.135.4.164:4145 {'protocols': ['socks4'], 'anonymity': 'Elite', 'timeout': 367, 'country': 'Germany', 'country_code': 'DE'}
+87.98.221.94:1000 {'protocols': ['socks4'], 'anonymity': 'Elite', 'timeout': 482, 'country': 'France', 'country_code': 'FR'}
